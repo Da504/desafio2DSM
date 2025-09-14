@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Colegio App</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+    <string name="no_account">¿No tienes cuenta? Regístrate aquí</string>
+    <string name="have_account">¿Ya tienes cuenta? Inicia sesión aquí</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="students">Estudiantes</string>
+    <string name="grades">Notas</string>
+    <string name="add_student">Agregar Estudiante</string>
+    <string name="add_grade">Agregar Nota</string>
+    <string name="full_name">Nombre Completo</string>
+    <string name="age">Edad</string>
+    <string name="address">Dirección</string>
+    <string name="phone">Teléfono</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="student">Estudiante</string>
+    <string name="grade">Grado</string>
+    <string name="subject">Materia</string>
+    <string name="final_grade">Nota Final</string>
+    <string name="select_student">Seleccionar Estudiante</string>
+    <string name="select_grade">Seleccionar Grado</string>
+    <string name="select_subject">Seleccionar Materia</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="list_students">Lista de Estudiantes</string>
+    <string name="list_grades">Lista de Notas</string>
+    <string name="empty_fields">Por favor, complete todos los campos</string>
+    <string name="invalid_grade">La nota debe estar entre 0 y 10</string>
+    <string name="password_mismatch">Las contraseñas no coinciden</string>
+    <string name="success">Éxito</string>
+    <string name="error">Error</string>
+    <string name="student_added">Estudiante agregado correctamente</string>
+    <string name="grade_added">Nota agregada correctamente</string>
+    <string name="student_updated">Estudiante actualizado correctamente</string>
+    <string name="grade_updated">Nota actualizada correctamente</string>
+    <string name="student_deleted">Estudiante eliminado correctamente</string>
+    <string name="grade_deleted">Nota eliminada correctamente</string>
+    <string name="confirm_delete">¿Estás seguro de que quieres eliminar este elemento?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+
+    <!-- Grados escolares -->
+    <string-array name="grades_array">
+        <item>1er Grado</item>
+        <item>2do Grado</item>
+        <item>3er Grado</item>
+        <item>4to Grado</item>
+        <item>5to Grado</item>
+        <item>6to Grado</item>
+    </string-array>
+
+    <!-- Materias -->
+    <string-array name="subjects_array">
+        <item>Matemáticas</item>
+        <item>Lenguaje</item>
+        <item>Ciencias</item>
+        <item>Sociales</item>
+        <item>Inglés</item>
+        <item>Educación Física</item>
+    </string-array>
+
+
+
+    <string name="back">Atrás</string>
+</resources>
