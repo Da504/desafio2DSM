@@ -1,6 +1,7 @@
 # Desafío 2 DSM
 
-**Alumno:** Danilo Antonio Martinez Miranda  carnet: MM240370
+**Alumno:** Danilo Antonio Martinez Miranda  carnet: MM240370  
+**Aplicación:** ColegioApp
 
 ## Enlaces importantes
 
